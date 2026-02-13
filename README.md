@@ -27,7 +27,7 @@ Application Django permettant d’explorer des données de pays à partir de l�
 Cloner le projet :
 
 ```bash
-git clone https://github.com/TheJeyB/countries-data-app.git
+git clone https://github.com/TheJeyB/world-countries-django.git
 cd countries-data-app
 ```
 
