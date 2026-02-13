@@ -8,8 +8,7 @@ Application Django permettant d’explorer des données de pays à partir de l�
 
 - Python
 - Django
-- PostgreSQL ou SQLite
-- Tailwind CSS (CDN)
+- PostgreSQL
 - REST Countries API
 
 ---
